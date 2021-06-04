@@ -1,0 +1,2 @@
+# spotiapp
+Angular Web Application
